@@ -5,7 +5,7 @@ export function Footer() {
         <div className="text-left">
           <h3 className="text-2xl font-bold tracking-tighter text-primary">HUMAN_ERROR</h3>
           <p className="text-xs text-zinc-500 font-mono mt-2">
-            © 2025. Juan Diego Quintero.
+            © 2025.
           </p>
         </div>
         

@@ -48,7 +48,7 @@ export function PowerSection() {
         <div className="mt-32 p-12 border border-zinc-800 bg-zinc-900/30 text-center relative overflow-hidden">
           <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-primary to-transparent opacity-50" />
           <p className="text-2xl md:text-4xl font-bold text-balance leading-tight">
-            "La influencia de la inteligencia artificial sobre los seres humanos."
+            "El Poder Persuasivo de la Inteligencia Artificial."
           </p>
           <br />
           <br />
